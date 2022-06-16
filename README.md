@@ -7,3 +7,6 @@ This application is about showing a list of Crypto Currency Coin using 2 Free AP
 A Cell of Crypto Coin list contains of Names, Symbol, Current USD Price, Current IDR Price (from Currency Converter) , and Logo from each coin.
 <br>
 Made by: David Ivan C14190040 (Petra Christian University)
+
+<h1>Documentation</h1>
+<img src="/documentation/Screen Shot 2022-06-17 at 00.50.36.png" width="128"/>
